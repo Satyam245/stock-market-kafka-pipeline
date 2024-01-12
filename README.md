@@ -4,15 +4,20 @@
 
 Welcome to my small project, the "Stock Market Kafka Project"! In this project, I've crafted a robust data pipeline using Python, Confluent Kafka, AWS S3, IAM, Glue, and Athena. The goal is to efficiently process and analyze stock market data through a well-defined workflow.
 
-## Technology used
-Programming Language - Python
-Amazon Web Service (AWS)
-    S3 (Simple Storage Service)
-    Athena
-    Glue Crawler
-    Glue Catalog
-    EC2
-Confluent Kafka
+## Technologies Used
+
+- **Programming Language:** Python
+
+- **Amazon Web Services (AWS):**
+  - S3 (Simple Storage Service)
+  - Athena
+  - AWS Glue
+    - Glue Crawler
+    - Glue Catalog
+  - Amazon EC2
+
+- **Confluent Kafka**
+
 
 ## Workflow Overview 📊
 
