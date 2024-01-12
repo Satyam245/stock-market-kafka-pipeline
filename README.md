@@ -55,5 +55,5 @@ Before you begin with the setup, make sure you have the following:
   - Necessary credentials for accessing the Kafka cluster
 
 
-Make sure to replace the links with the appropriate URLs for the services and technologies mentioned.
-
+For more info checkout this video-
+Video Link - https://www.youtube.com/embed/KerNf0NANMo
