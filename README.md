@@ -35,3 +35,25 @@ Welcome to my small project, the "Stock Market Kafka Project"! In this project, 
 
 5. **Athena steps in, empowering me to query insights seamlessly:**
    - Utilize AWS Athena for effortless querying and gaining valuable insights from the processed data.
+
+
+## Prerequisites
+
+Before you begin with the setup, make sure you have the following:
+
+- **Programming Language:** Python 3.6 or higher
+
+- **Amazon Web Services (AWS):**
+  - An AWS account with the following services configured:
+    - [S3 (Simple Storage Service)](https://aws.amazon.com/s3/)
+    - [Athena]
+    - [AWS Glue] set up with Glue Crawler and Glue Catalog
+    
+
+- **Confluent Kafka:** (https://www.confluent.io/)
+  - An active Confluent Kafka cluster
+  - Necessary credentials for accessing the Kafka cluster
+
+
+Make sure to replace the links with the appropriate URLs for the services and technologies mentioned.
+
